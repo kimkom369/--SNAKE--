@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #44f09a;
+}
+
+h2{ color: rgb(64, 110, 85); font-size: 30px; font-family: fantasy;}
+
+p{
+    font-size: 25px;
+    color: rgb(64, 110, 85);
+    font-family: fantasy;
+}
+
+#canvas{
+    margin-top: 40px;
+    box-sizing: border-box;
+    box-shadow: rgb(69, 70, 69)  1px 1px 3px 3px;
+}
+
+button{
+    box-sizing: border-box;
+    height: 40px;
+    background: indianred;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-family: fantasy;
+}
